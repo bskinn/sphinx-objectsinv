@@ -1,6 +1,10 @@
 sphobjinv: Manipulate and inspect Sphinx objects.inv files
 ==========================================================
 
+.. image:: https://badges.gitter.im/sphobjinv/community.svg
+   :alt: Join the chat at https://gitter.im/sphobjinv/community
+   :target: https://gitter.im/sphobjinv/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 **Current Development Version:**
 
 .. image:: https://img.shields.io/github/workflow/status/bskinn/sphobjinv/ci-tests?logo=github
